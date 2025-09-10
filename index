@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+    <title>My Web first WebPage</title>
+    <body>
+        <h1>Shahnaz</h1>
+        <h2>2 course</h2>
+        <h3>i am a student</h3>
+
+        <p>This is my first webpage, so i'm very exited</p>
+        <ol>
+            <li>sing</li>
+            <li>dance</li>
+            <li>sleep</li>
+        </ol>
+        <ul>
+            <li>instagram</li>
+            <li>tiktok</li>
+            <li>google</li>
+        </ul>
+<img src="my_soul.jpeg" >  
+<a href="https://www.youtube.com/watch?v=P8BLkulZGX8&list=RDP8BLkulZGX8&start_radio=1"> youtube</a>
+<a href="https://www.youtube.com/watch?v=P8BLkulZGX8&list=RDP8BLkulZGX8&start_radio=1">youtube</a>
+<button>Click Me</button>
+
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Day</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Math</td>
+    <td>Monday</td>
+    <td>10:00 AM - 11:00 AM</td>
+  </tr>
+  <tr>
+    <td>History</td>
+    <td>Wednesday</td>
+    <td>1:00 PM - 2:00 PM</td>
+  </tr>
+  <tr>
+    <td>Science</td>
+    <td>Friday</td>
+    <td>9:00 AM - 10:00 AM</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://pixabay.com/illustrations/house-home-nature-building-4737447/">Home</a></li>
+        <li><a href="https://medium.com/@felinescare/why-are-cats-so-cute-6214f1afba34">Schedule</a></li>
+        <li><a href="https://medium.com/@felinescare/why-are-cats-so-cute-6214f1afba34">Contact</a></li>
+      </ul>
+    </td>
+    <td>
+      <p>This is the main content area.</p>
+    </td>
+  </tr>
+</table>
+
+<p> i have fun day &#128516 i like eat spicy food &#128508 i watch dorama &#128517 </p>
+<form>
+  <label for="name">Name:</label><br />
+  <input type="text" id="name" name="name" /><br /><br />
+
+  <label for="email">Email:</label><br />
+  <input type="email" id="email" name="email" /><br /><br />
+
+  <label for="color">Favorite Color:</label><br />
+  <input type="color" id="color" name="color" /><br /><br />
+
+  <button type="submit">Submit</button>
+</form>
+
+
+    </head>
+</html>
